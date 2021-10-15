@@ -11,6 +11,11 @@ Cross entropy is not really right. If bits fire closer together in the one-hot r
 difference might be better, but I have run out of time to try that.
 
 Train logs for first 3 epochs:
+
 epoch 0 total_loss 151880.3483891487, mnist correct 6043, add correct 5910
+
+
 epoch 1 total_loss 153105.35919749737, mnist correct 6072, add correct 5956
+
+
 epoch 2 total_loss 153180.87634515762, mnist correct 6097, add correct 5939
