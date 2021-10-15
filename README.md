@@ -10,12 +10,14 @@ Assignment 4 - addition of a digit to an MNIST image via NN
 Cross entropy is not really right. If bits fire closer together in the one-hot representation it should lead to lesser loss. So squared loss that actually measures the numerical
 difference might be better, but I have run out of time to try that.
 
-Train logs for first 3 epochs:
+Train logs for first 5 epochs:
 
-epoch 0 total_loss 151880.3483891487, mnist correct 6043, add correct 5910
+epoch 0 total_loss 154958.58832985163, mnist correct 5903, add correct 5913
 
+epoch 1 total_loss 154878.0992539525, mnist correct 6042, add correct 5925
 
-epoch 1 total_loss 153105.35919749737, mnist correct 6072, add correct 5956
+epoch 2 total_loss 156330.90835732222, mnist correct 5874, add correct 5728
 
+epoch 3 total_loss 158845.30451714993, mnist correct 6027, add correct 5966
 
-epoch 2 total_loss 153180.87634515762, mnist correct 6097, add correct 5939
+epoch 4 total_loss 158798.56760770082, mnist correct 5937, add correct 5932
