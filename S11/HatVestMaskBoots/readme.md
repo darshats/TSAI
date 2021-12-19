@@ -2,7 +2,7 @@ This folder has all the files related to training a model to recognize hardhat, 
 
 Link to youtube video - https://youtu.be/vzIc2B6Ozsc
 
-Since the source code has too many files, I have uploaded only the config file that was edited and the output on 16 sample images along with the main notebook used to train and test.
+Since the source code has too many files (zip is 1.6gb and I am not able to upload), I have uploaded only the config file that was edited and the output on 16 sample images along with the main notebook used to train and test.
 The 16 images are in the same folder as this readme file.
 ![b1](https://user-images.githubusercontent.com/56063876/146685134-14ef4490-c954-4b72-9644-7088544b7327.jpg)
 ![b2](https://user-images.githubusercontent.com/56063876/146685135-3eae27d9-b9fe-4b6d-a8c4-fa3f79093974.jpg)
